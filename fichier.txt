@@ -1,17 +1,1 @@
-<<<<<<< HEAD
-git config --global user.name "le nom"
-
-git config --global user.name "le mail"
-
-git init 
-
-git add -A 
-
-git commit -m "message du commit"
-
-git remote add  origin "lien du depot distant"
-
-git push -u origin master
-=======
-alain n'est pas la
->>>>>>> testeur1
+ok
