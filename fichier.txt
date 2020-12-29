@@ -1,1 +1,1 @@
-le fichier de test 1
+ce fichier va servir de test pour le merging avec la branche master
